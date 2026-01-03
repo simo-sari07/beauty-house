@@ -83,7 +83,7 @@
                     <div class="flex items-center">
                         <a href="{{ route('home') }}" class="text-2xl font-bold flex items-center transition-colors duration-300" id="header-logo">
                             <span class="text-3xl mr-2">🌸</span>
-                            <span>Beauty House</span>
+                            <span>Beauty House y</span>
                         </a>
                     </div>
 
